@@ -1,0 +1,128 @@
+<html>
+<head>
+
+<title>Authorization required</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+<link href="../css/jquery.loadmask.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="../js/jquery-3.2.0.min.js?6.02.20230511.1"></script>
+<script type="text/javascript" src="../js/jquery.loadmask.js"></script>
+<script type="text/javascript" src="../js/jquery.countdown360.js"></script>
+
+<link href="../css/wildix-font.css?6.02.20230511.1" rel="stylesheet" type="text/css">
+<link href="../css/wildix-icons.css?6.02.20230511.1" rel="stylesheet" type="text/css">
+<link href="../collaboration/dist/auth/style.css?6.02.20230511.1" rel="stylesheet" type="text/css" />
+
+
+<script defer src="https://statics.teams.cdn.office.net/sdk/v1.10.0/js/MicrosoftTeams.min.js" integrity="sha384-6oUzHUqESdbT3hNPDDZUa/OunUj5SoxuMXNek1Dwe6AmChzqc6EJhjVrJ93DY/Bv" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="authorization.js?6.02.20230511.1" data-chromeapp="1"></script>
+</head>
+
+<body>
+
+    <section class="page-wrapper authorization">
+
+        <header class="page-wrapper__header">
+    <div class="logo">
+        <a class="logo__link" target="_blank"
+            href="https://www.wildix.com/" >
+              <div class="logo__image">
+                   <img src="../authorization/images/logo-wildix.svg"/>
+              </div>
+        </a>
+    </div>
+
+    <div class="welcome-block">
+        <h2 class="welcome-block__title">Welcome</h2>
+        <h4 class="welcome-block__subtitle">to Wildix Collaboration</h4>
+    </div>
+</header>
+        <main class="page-wrapper__body">
+
+            <div class="authorization__wrapper main-wrapper">
+
+                <div class="form-auth">
+
+                    <form class="form-auth__body" onsubmit="if(!auth()){return false;}" method="post">
+
+                        <div class="form-auth__wrap form-wrap window-info">
+                            <div class="form-item field-caption-top">
+                                <input class="form-auth-field form-field form-field__user" type="text" value="" placeholder="" id="user-auth" required="required"/>
+                                <label class="field-caption-top__label">Login</label>
+                            </div>
+                            <div class="form-item form-item_password field-caption-top">
+                                <input class="form-auth-field form-field form-field__password" type="password" value="" placeholder="" id="password-auth" required="required"/>
+                                <label class="field-caption-top__label">Password</label>
+                                <button class="btn-show-password" type="button" title="">
+                                    <i class="fa fa-icon-password-hide image_password"></i>
+                                </button>
+                            </div>
+
+                            <div class="form-error flex-container">
+                                <div class="form-error__message"></div>
+    <!--                            <div class="btn-forgot-password">-->
+    <!--                                <button class="btn-forgot-password__link tooltip" tooltip="Forgot the password?" flow="down" type="button" title="">-->
+    <!--                                    Forgot the password-->
+    <!--                                </button>-->
+    <!--                            </div>-->
+                            </div>
+
+                            <div class="form-auth__bottom flex-container">
+                                <div class="form-auth__checkboxes">
+                                    <div class="remember-me flex-container form-item">
+                                        <input class="remember-me__field checkbox-normal" id="remember" type="checkbox" name="remember">
+                                        <label class="remember-me__label" for="remember" title="Remember me">Remember me</label>
+                                    </div>
+                                                                    </div>
+                                <button class="form-auth__submit btn-submit btn-usual" type="submit" title="Login">Login</button>
+                            </div>
+                        </div>
+
+                        <div class="login-with flex-container">
+                            <div class="login-with__caption">Login with</div>
+                            <button type="button" title="Google Single Sign-On" class="btn-circle btn-sing-on btn-sing-on-google">
+                                <i class="fa fa-icon-google-sign-on"></i>
+                            </button>
+                            <button type="button" title="Office 365 Sign-On" class="btn-circle btn-sing-on btn-sing-on-office365">
+                                <i class="fa fa-icon-sing-on-office365"></i>
+                            </button>
+                        </div>
+                    </form>
+
+                    <form class="form-two-factor" method="post" onsubmit="if(!auth(true)){return false;}" >
+
+                        <div class="form-wrap window-info">
+
+                            <div class="form-two-factor__top">
+                                <h3 class="form-two-factor__title">Two-factor authentication</h3>
+                                <h5 class="form-two-factor__subtitle  description">
+                                </h5>
+                            </div>
+
+                            <div class="flex-container form-two-factor__bottom">
+                                <div class="form-item field-caption-top">
+                                    <input class="form-field form-field__code" type="text"  placeholder=""  required="required"/>
+                                    <label class="field-caption-top__label">Enter code</label>
+                                </div>
+                                <div class="countdown"></div>
+                                <button class="btn-usual btn_submit  submit" type="submit" title="Login">Login</button>
+                            </div>
+
+                            <div class="form-error flex-container">
+                                <div class="form-error__message"></div>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+
+            </div>
+
+        </main>
+
+    </section>
+</body>
+</html>
