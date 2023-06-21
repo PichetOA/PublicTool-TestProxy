@@ -1,0 +1,1407 @@
+<!DOCTYPE html>
+<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:bold' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:bold' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='http://criahabboswnsplay.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='http://criahabboswnsplay.blogspot.com/' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Criar Habbos Wnsplay - Atom" href="http://criahabboswnsplay.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Criar Habbos Wnsplay - RSS" href="http://criahabboswnsplay.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Criar Habbos Wnsplay - Atom" href="https://www.blogger.com/feeds/8376273387496614166/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/17732965329892862083" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='http://criahabboswnsplay.blogspot.com/' property='og:url'/>
+<meta content='Criar Habbos Wnsplay' property='og:title'/>
+<meta content='' property='og:description'/>
+<title>Criar Habbos Wnsplay</title>
+<style type='text/css'>@font-face{font-family:'Droid Sans';font-style:normal;font-weight:400;src:url(//fonts.gstatic.com/s/droidsans/v18/SlGVmQWMvZQIdix7AFxXkHNSaw.woff)format('woff');}@font-face{font-family:'Droid Serif';font-style:normal;font-weight:700;src:url(//fonts.gstatic.com/s/droidserif/v19/tDbV2oqRg1oM3QBjjcaDkOJGiRD7Owc.woff)format('woff');}</style>
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Clone Cria Habbos
+Name:   http://www.wx-downs.blogspot.com/
+Author: http://www.wx-downs.blogspot.com/
+URL:    http://www.wx-downs.blogspot.com/
+Date:   Junho 2012
+License:  This free Blogger template is licensed under the Creative Commons Attribution 3.0 License, which permits both personal and commercial use. However, to satisfy the 'attribution' clause of the license, you are required to keep the footer links intact which provides due credit to its authors. For more specific details about the license, you may visit the URL below:
+http://creativecommons.org/licenses/by/3.0
+----------------------------------------------- */
+#navbar-iframe {
+display: none !important;
+}
+/* Variable definitions
+====================
+<Variable name="textcolor" description="Text Color"
+type="color" default="#333">
+<Variable name="linkcolor" description="Link Color"
+type="color" default="#8F3110">
+<Variable name="pagetitlecolor" description="Blog Title Color"
+type="color" default="#fff">
+<Variable name="descriptioncolor" description="Blog Description Color"
+type="color" default="#fff">
+<Variable name="titlecolor" description="Post Title Color"
+type="color" default="#000">
+<Variable name="sidebarcolor" description="Sidebar Title Color"
+type="color" default="#fff">
+<Variable name="sidebartextcolor" description="Sidebar Text Color"
+type="color" default="#333">
+<Variable name="visitedlinkcolor" description="Visited Link Color"
+type="color" default="#8F3110">
+<Variable name="bodyfont" description="Text Font"
+type="font" default="normal normal 110% Arial, Serif">
+<Variable name="headerfont" description="Sidebar Title Font"
+type="font"
+default="bold 125%/1.4em 'Arial',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="pagetitlefont" description="Blog Title Font"
+type="font"
+default="bold 240% Droid Serif,Serif">
+<Variable name="descriptionfont" description="Blog Description Font"
+type="font"
+default="80% 'Droid Sans',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="postfooterfont" description="Post Footer Font"
+type="font"
+default="90%/1.4em 'Arial',Trebuchet,Arial,Verdana,Sans-serif">
+<Variable name="startSide" description="Side where text starts in blog language"
+type="automatic" default="left">
+<Variable name="endSide" description="Side where text ends in blog language"
+type="automatic" default="right">
+*/
+/* Use this with templates/template-twocol.html */
+body {
+background: url("http://1.bp.blogspot.com/-xEzMKrKogn8/TvX4MY180AI/AAAAAAAAA-4/SxETatDTV8s/s1600/body.jpg") repeat scroll 0 0 transparent;
+color: #333333;
+font: small Georgia Serif;
+margin: 0;
+text-align: center;
+}
+a:link {
+color: #3366CC;
+text-decoration: none;
+}
+a:visited {
+color: #3366CC;
+text-decoration: none;
+}
+a:hover {
+color: #CC6600;
+text-decoration: underline;
+}
+a img {
+border-width: 0;
+}
+#header-wrapper {
+height: 153px;
+margin-bottom: 0;
+margin-right: auto;
+margin-top: 0;
+width: 982px;
+}
+#header-inner {
+height: 93px;
+margin-left: auto;
+margin-right: auto;
+}
+#header {
+color: #FFFFFF;
+text-align: left;
+text-shadow: 1px 1px 0 #333333;
+}
+#header h1 {
+font: 299% family,Lobster,Serif;
+letter-spacing: -1px;
+margin: 0;
+padding: 24px 10px 1px;
+text-transform: none;
+}
+#header a {
+color: #FFFFFF;
+text-decoration: none;
+}
+#header a:hover {
+color: #FFFFFF;
+}
+#header .description {
+color: #FFFFFF;
+font: 100%/12px 'Shadows Into Light',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing: 0;
+margin: 0;
+max-width: 300px;
+padding: 0 12px 15px;
+text-transform: none;
+}
+#header img {
+margin-left: auto;
+margin-right: auto;
+}
+#outer-wrapper {
+font: 110% Arial,Serif;
+margin: 0 auto;
+text-align: left;
+width: 985px;
+}
+#main-wrapper {
+background: none repeat scroll 0 0 #FFFFFF;
+box-shadow: 0 0 3px #333333;
+float: left;
+margin-left: -15px;
+margin-top: 8px;
+overflow: hidden;
+padding: 10px;
+width: 544px;
+word-wrap: break-word;
+}
+#sidebar-wrapper {
+float: right;
+margin-right: -5px;
+margin-top: 2px;
+overflow: hidden;
+width: 209px;
+word-wrap: break-word;
+}
+#sidebar-wrapper2 {
+float: left;
+margin-left: -4px;
+margin-right: 24px;
+margin-top: 2px;
+overflow: hidden;
+width: 205px;
+word-wrap: break-word;
+}
+h2 {
+background: url("http://3.bp.blogspot.com/-fcuP6Ildtuo/TvX1Czu0dRI/AAAAAAAAA-s/8j5ZsdKkHJw/s1600/h2r.png") no-repeat scroll 0 0 transparent;
+color: #000000;
+font: bold 110%/1.4em 'Arial',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing: 0;
+margin: 0;
+padding: 11px 28px 18px;
+text-shadow: 0 1px 0 #FFFFFF;
+text-transform: none;
+}
+h2.date-header {
+font: 12px arial;
+letter-spacing: 0;
+margin: 0;
+padding: 0;
+text-transform: none;
+}
+.post {
+margin: 0.5em 0 -15px;
+padding-bottom: 5px;
+}
+.post h3 {
+color: #000000;
+font-size: 170%;
+font-weight: bold;
+line-height: 1.4em;
+margin: 0.25em 0 0;
+padding: 0 0 4px;
+}
+.post h3 a, .post h3 a:visited, .post h3 strong {
+color: #000000;
+display: block;
+font-weight: bold;
+text-decoration: none;
+}
+.post h3 strong, .post h3 a:hover {
+color: #333333;
+}
+.post-body {
+line-height: 1.6em;
+margin: 0 0 0.75em;
+}
+.post-body blockquote {
+line-height: 1.3em;
+}
+.post-footer {
+background: none repeat scroll 0 0 #EEEEEE;
+border: 3px double #FFFFFF;
+color: #000000;
+font: 90%/1.4em 'Arial',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing: 0;
+margin: 0.75em 0;
+padding: 10px;
+text-transform: none;
+}
+.comment-link {
+margin-left: 0.6em;
+}
+.post img, table.tr-caption-container {
+border: 4px solid #EEEEEE;
+}
+.tr-caption-container img {
+border: medium none;
+padding: 0;
+}
+.post blockquote {
+font: italic 13px georgia;
+margin: 1em 20px;
+}
+.post blockquote p {
+margin: 0.75em 0;
+}
+#comments h4 {
+color: #666666;
+font-size: 14px;
+font-weight: bold;
+letter-spacing: 0;
+line-height: 1.4em;
+margin: 1em 0;
+text-transform: none;
+}
+#comments-block {
+line-height: 1.6em;
+margin: 1em 0 1.5em;
+}
+body#layout #main-wrapper {
+margin-top: 0;
+overflow: visible;
+}
+body#layout #sidebar-wrapper {
+margin-top: 0;
+overflow: visible;
+}
+#comments-block .comment-author {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 #EEEEEE;
+border: 1px solid #EEEEEE;
+font-size: 15px;
+font-weight: normal;
+margin-right: 20px;
+padding: 5px;
+}
+#comments .blogger-comment-icon, .blogger-comment-icon {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 #E8DEC4;
+border-color: #E8DEC4;
+border-style: solid;
+border-width: 2px 1px 1px;
+line-height: 16px;
+padding: 5px;
+}
+#comments-block .comment-body {
+border-left: 1px solid #EEEEEE;
+border-right: 1px solid #EEEEEE;
+margin-left: 0;
+margin-right: 20px;
+padding: 7px;
+}
+#comments-block .comment-footer {
+border-bottom: 1px solid #EEEEEE;
+border-left: 1px solid #EEEEEE;
+border-right: 1px solid #EEEEEE;
+font-size: 11px;
+line-height: 1.4em;
+margin: -0.25em 20px 2em 0;
+padding: 5px;
+text-transform: none;
+}
+#comments-block .comment-body p {
+margin: 0 0 0.75em;
+}
+.deleted-comment {
+color: gray;
+font-style: italic;
+}
+#blog-pager-newer-link {
+background: none repeat scroll 0 0 #FFFFFF;
+border: 1px solid #CCCCCC;
+float: left;
+padding: 7px;
+}
+#blog-pager-older-link {
+background: none repeat scroll 0 0 #FFFFFF;
+border: 1px solid #CCCCCC;
+border-radius: 10px 10px 10px 10px;
+float: right;
+padding: 7px;
+}
+#blog-pager {
+margin: 25px 0 0;
+overflow: hidden;
+text-align: center;
+}
+.feed-links {
+clear: both;
+line-height: 2.5em;
+}
+.sidebar {
+color: #333333;
+font-size: 90%;
+line-height: 1.5em;
+text-shadow: 0 1px 0 #FFFFFF;
+}
+.sidebar a {
+}
+.sidebar2 a {
+}
+.sidebar2 {
+color: #333333;
+font-size: 90%;
+line-height: 1.5em;
+text-shadow: 0 1px 0 #FFFFFF;
+}
+.sidebar ul {
+list-style: none outside none;
+margin: 0;
+padding: 0;
+}
+.sidebar li {
+border-bottom: 1px dotted #999999;
+line-height: 1.5em;
+margin: 0;
+padding: 2px;
+}
+.sidebar2 .widget, .main .widget {
+margin: 0 0 1.5em;
+padding: 0 0 1.5em;
+}
+.sidebar2 ul {
+list-style: none outside none;
+margin: 0;
+padding: 0;
+}
+.sidebar2 li {
+border-bottom: 1px dotted #CCCCCC;
+line-height: 1.5em;
+margin: 0;
+padding: 2px;
+}
+.sidebar2 .widget, .main .widget {
+margin-bottom: 10px;
+margin-right: 0;
+margin-top: 0;
+padding: 0;
+}
+.main .Blog {
+border: medium none;
+border-radius: 0 0 0 0;
+padding: 0;
+}
+.profile-img {
+border: 1px solid #CCCCCC;
+float: left;
+margin: 0 5px 5px 0;
+padding: 4px;
+}
+.profile-data {
+color: #999999;
+font: bold 78%/1.6em 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing: 0.1em;
+margin: 0;
+text-transform: uppercase;
+}
+.profile-datablock {
+margin: 0.5em 0;
+}
+.profile-textblock {
+line-height: 1.6em;
+margin: 0.5em 0;
+}
+.profile-link {
+font: 78% 'Trebuchet MS',Trebuchet,Arial,Verdana,Sans-serif;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+}
+#footer {
+background: url("http://3.bp.blogspot.com/-iQymvrp9UZ0/TvX09ArfTcI/AAAAAAAAA-U/h4Dfc7ON0PU/s1600/FOOTER.png") no-repeat scroll 0 0 transparent;
+clear: both;
+color: #000000;
+font: 11px arial;
+letter-spacing: 0;
+margin: 0 auto;
+padding-bottom: 56px;
+padding-top: 40px;
+text-align: center;
+text-transform: none;
+width: 985px;
+}
+.feed-links {
+display: none;
+}
+#Attribution1 {
+display: none;
+}
+body#layout #footer {
+display: none;
+}
+body#layout #addthis_toolbox {
+display: none;
+}
+body#layout #crosscol-wrapper {
+display: none;
+}
+body#layout #searchbox {
+display: none;
+}
+.post-share-buttons {
+}
+#sidebar-wrapper2 .sidebar .widget {
+background: url("http://4.bp.blogspot.com/-6J8CUtCBbec/ThHXMg86LaI/AAAAAAAAAVs/KIoQ7g5m_Rk/s1600/sidebar.png") no-repeat scroll right top #CDCDCD;
+margin-bottom: 8px;
+padding: 0;
+}
+#sidebar-wrapper2 .widget-content {
+margin: -13px 0 0;
+padding: 9px;
+}
+#sidebar-wrapper .sidebar .widget {
+margin-bottom: 10px;
+padding: 0;
+}
+#sidebar-wrapper .widget-content {
+margin: 0;
+padding: 5px;
+}
+#footer-bg {
+}
+.first-links {
+font-size: 12px;
+margin-top: 9px;
+}
+.second-links {
+padding-left: 30px;
+}
+#footer a {
+color: #000000;
+}
+#content-wrapper {
+background: url("http://3.bp.blogspot.com/-3OjzluwfSB8/TvX04FFPkJI/AAAAAAAAA-I/IrXs2ZlKxzc/s1600/CONTENT.jpg") repeat-y scroll 0 0 transparent;
+margin-top: -8px;
+}
+#PageList1 {
+height: 40px;
+margin: 0 auto 0 6px;
+padding-top: 8px;
+}
+.PageList li a {
+color: #555555;
+font: bold 12px arial;
+padding: 9px 13px;
+text-shadow: 0 1px 0 #FFFFFF;
+text-transform: none;
+}
+.crosscol .PageList li, .footer .PageList li {
+background: none repeat scroll 0 0 transparent;
+float: left;
+list-style: none outside none;
+margin: 0;
+padding: 20px 0;
+}
+.PageList li.selected a {
+color:#000000;
+font-weight: bold;
+text-decoration: none;
+}
+.PageList li a:hover {
+color:#000000;
+font-weight: bold;
+text-decoration: none;
+}
+.searchbox {
+-moz-background-inline-policy: continuous;
+background: url("http://2.bp.blogspot.com/_Ax-O2ayi6kU/TUV8EMX-UTI/AAAAAAAABWE/sPzPhAKq9AY/s1600/search.png") no-repeat scroll 0 0 transparent;
+display: block;
+float: right;
+height: 50px;
+margin-right: 43px;
+margin-top: -40px;
+width: 249px;
+}
+.searchbox .textfield {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+float: left;
+height: 20px;
+margin: 14px 1px 5px 25px;
+width: 155px;
+}
+.searchbox .button {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+cursor: pointer;
+float: left;
+height: 20px;
+margin-left: 2px;
+margin-top: 14px;
+width: 35px;
+}
+h2.date-header {
+background: url("http://2.bp.blogspot.com/_8GxSJXcDIwk/TBM41zdJRTI/AAAAAAAABp0/Y-bxfWbuf8s/s1600/1276328132_date.png") no-repeat scroll left -1px transparent;
+border: medium none;
+color: #333333;
+font: 12px arial;
+letter-spacing: 0;
+margin: 0;
+padding-left: 20px;
+text-shadow: 0 1px 0 #FFFFFF;
+text-transform: none;
+}
+.post-author {
+background: url("http://3.bp.blogspot.com/_8GxSJXcDIwk/TBNBFo0rK-I/AAAAAAAABq8/VO_ATeuF6sM/s1600/aaa.png") no-repeat scroll 0 0 transparent;
+padding-left: 20px;
+}
+.post-comment-link a {
+background: url("http://2.bp.blogspot.com/_8GxSJXcDIwk/TBM6sX5_MNI/AAAAAAAABp8/2RwKjFNZjcQ/s1600/1276328597_comment.png") no-repeat scroll left center transparent;
+padding-left: 20px;
+}
+.post-labels {
+background: url("http://4.bp.blogspot.com/_8GxSJXcDIwk/TBNALDZe_0I/AAAAAAAABqk/cS_OBWXZEQs/s1600/1276330011_tags.png") no-repeat scroll left center transparent;
+padding-left: 20px;
+}
+#wrapper {
+background: url("http://4.bp.blogspot.com/-QWK3BiiVdbE/T-fDRpS4dxI/AAAAAAAACs8/nTCb6_wvlEg/s1600/xD.png") no-repeat scroll center top transparent;
+}
+#wrapper1 {
+background: url("http://2.bp.blogspot.com/-Okdcnz41yHs/TvX0zTohdcI/AAAAAAAAA98/02DL3eBOrJs/s1600/MENU.jpg") no-repeat scroll 0 211px transparent;
+width: 985px;
+}
+#content-but {
+}
+.col-left {
+float: left;
+width: 47%;
+}
+.col-right {
+float: right;
+width: 48%;
+}
+#HTML102 h2 {
+display: none;
+}
+body#layout #ads-header {
+float: right;
+height: 60px;
+margin-right: 20px;
+margin-top: 0;
+width: 300px;
+}
+body#layout #HTML102 {
+float: right;
+margin-right: 0;
+width: 296px;
+}
+body#layout #Header1 {
+float: left;
+margin-left: 20px;
+width: 600px;
+}
+body#layout #headertw {
+display: none;
+}
+#headertw {
+float: left;
+height: 27px;
+margin-left: 645px;
+margin-top: -39px;
+position: relative;
+}
+#headertw img {
+margin-right: 5px;
+padding: 0;
+}
+#searchbox {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 #FFFFFF;
+border: 1px solid #BABAB6;
+border-radius: 10px 10px 10px 10px;
+float: right;
+height: 23px;
+margin-right: 39px;
+margin-top: -40px;
+width: 188px;
+}
+#searchbox .textfield {
+-moz-background-inline-policy: continuous;
+background: none repeat scroll 0 0 transparent;
+border: 0 none;
+float: left;
+height: 18px;
+margin: 2px 1px 2px 8px;
+width: 145px;
+}
+#searchbox .button {
+-moz-background-inline-policy: continuous;
+background: url("http://2.bp.blogspot.com/-bc5XqZfTEqo/ThyjPB6DPsI/AAAAAAAAAbY/RO60uxY98Gg/s1600/searc.png") no-repeat scroll 0 4px transparent;
+border: 0 none;
+cursor: pointer;
+float: left;
+height: 23px;
+margin-left: 2px;
+margin-top: 0;
+width: 23px;
+}
+#HTML102 h2 {
+display: none;
+}
+body#layout #ads-header {
+float: right;
+height: 60px;
+margin-right: 20px;
+margin-top: -42px;
+width: 268px;
+}
+body#layout #HTML102 {
+float: right;
+margin-right: 0;
+width: 296px;
+}
+.text-h {
+color: #FFFFFF;
+display: none;
+float: left;
+font: bold 13px Arial;
+margin-right: 10px;
+margin-top: 5px;
+text-transform: none;
+}
+#ads-header {
+height: 60px;
+margin-left: 511px;
+margin-top: -63px;
+width: 468px;
+}
+#newheader {
+height: 38px;
+margin-bottom: 0;
+margin-left: auto;
+margin-right: auto;
+padding-top: 6px;
+width: 950px;
+}
+.crosscol .PageList UL, .footer .PageList UL {
+list-style: none outside none;
+margin: 0 auto;
+padding: 0;
+}
+.post-footer a {
+}
+.date-outer {
+margin-bottom: 25px;
+padding-bottom: 10px;
+}
+#s3slider {
+background: none repeat scroll 0 0 #FFFFFF;
+border: 3px double #CCCCCC;
+height: 280px;
+margin-bottom: 25px;
+margin-top: 0;
+overflow: hidden;
+position: relative;
+text-shadow: 0 1px 0 #000000;
+width: 538px;
+}
+#s3sliderContent {
+background: none repeat scroll 0 0 #FFFFFF;
+height: 300px;
+list-style: none outside none;
+margin-left: 0;
+overflow: hidden;
+padding: 0;
+position: absolute;
+top: -14px;
+width: 538px;
+}
+.s3sliderImage {
+float: left;
+position: relative;
+width: 538px;
+}
+.s3sliderImage span {
+background-color: #000000;
+color: #FFFFFF;
+display: none;
+font-size: 12px;
+height: 300px;
+line-height: 16px;
+opacity: 0.7;
+overflow: hidden;
+padding: 10px 13px;
+position: absolute;
+right: 0;
+top: 0;
+width: 180px;
+}
+.s3sliderImage strong a {
+font-family: 'Myriad Pro',Helvetica,Arial,Sans-Serif;
+font-size: 20px;
+}
+.s3sliderImage strong a:hover {
+color: #FFFFFF;
+}
+#HTML101 h2 {
+display: none;
+}
+#wrapper-bg {
+}
+#wrapper-bg2 {
+}
+#Label1 h2 {
+display: none;
+}
+.second-row h2 {
+display: none;
+}
+.second-row a {
+color: #333333;
+}
+.second-row {
+height: 70px;
+padding: 0;
+}
+.second-row li {
+border-right: 1px solid #C9C9C9;
+color: #333333;
+float: left;
+font: bold 12px Arial;
+margin: 11px 0 0;
+padding: 17px 14px;
+text-shadow: 0 1px 0 #FFFFFF;
+text-transform: uppercase;
+}
+.second-row ul {
+float: left;
+list-style: none outside none;
+margin: 0 0 0 -2px;
+padding: 0;
+}
+.sidebar h2 {
+}
+.sidebar2 h2 {
+background: url("http://2.bp.blogspot.com/-n4tkQsplpkc/TvX1AL2exKI/AAAAAAAAA-g/-rg-6QPC_fo/s1600/h2l.png") no-repeat scroll 0 0 transparent;
+color: #FFFFFF;
+padding-left: 9px;
+text-shadow: 0 1px #000000;
+}
+#blog-pager-newer-link {
+float: left;
+text-transform: capitalize;
+font: bold 14px arial;
+color: #fff;
+}
+#blog-pager-older-link {
+float: right;
+text-transform: capitalize;
+font: bold 14px arial;
+color: #fff;
+}
+#blog-pager {
+text-align: center;
+text-transform: capitalize;
+font: bold 12px arial;
+padding: 10px 0;
+}
+.showpageArea {
+font-family: verdana,arial,helvetica;
+color: #000;
+font-size: 11px;
+margin: 10px;
+}
+.showpageArea a {
+color: #000;
+text-shadow: 0 1px 2px #fff;
+font-weight: 700;
+}
+.blog-pager a, .showpageNum a, .showpageNum a:link, .showpageNum a:visited, .showpageNum a:active {
+padding: 5px 10px;
+margin: 0 2px;
+text-decoration: none;
+border: 1px solid #102C4A;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+color: #fff;
+Background:#000;
+}
+.showpageNum a:hover {
+border: 1px solid #000;
+Background:#FFFF00;
+color:#000;
+}
+.showpageOf {
+margin: 0 8px 0 0;
+color: #000;
+}
+.showpagePoint {
+color: #000000;
+padding: 5px 10px;
+margin: 2px;
+font-weight: 700;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border: 1px solid #000000;
+text-decoration: none
+Background:#000000;
+}
+
+--></style>
+<script src='http://dl.dropbox.com/u/53952260/blogger.js'></script>
+<script src='http://dl.dropbox.com/u/53952260/data-post.js'></script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js' type='text/javascript'></script>
+<script type='text/javascript'>
+//<![CDATA[
+/* ------------------------------------------------------------------------
+	s3Slider
+	
+	Developped By: Boban KariÅ¡ik -> http://www.templateparablogspot.com/
+        CSS Help: MÃ©szÃ¡ros RÃ³bert -> http://www.templateparablogspot.com/
+	Version: 1.0
+	
+	Copyright: Feel free to redistribute the script/modify it, as
+			   long as you leave my infos at the top.
+-------------------------------------------------------------------------- */
+
+
+(function($){  
+
+    $.fn.s3Slider = function(vars) {       
+        
+        var element     = this;
+        var timeOut     = (vars.timeOut != undefined) ? vars.timeOut : 4000;
+        var current     = null;
+        var timeOutFn   = null;
+        var faderStat   = true;
+        var mOver       = false;
+        var items       = $("#" + element[0].id + "Content ." + element[0].id + "Image");
+        var itemsSpan   = $("#" + element[0].id + "Content ." + element[0].id + "Image span");
+            
+        items.each(function(i) {
+    
+            $(items[i]).mouseover(function() {
+               mOver = true;
+            });
+            
+            $(items[i]).mouseout(function() {
+                mOver   = false;
+                fadeElement(true);
+            });
+            
+        });
+        
+        var fadeElement = function(isMouseOut) {
+            var thisTimeOut = (isMouseOut) ? (timeOut/2) : timeOut;
+            thisTimeOut = (faderStat) ? 10 : thisTimeOut;
+            if(items.length > 0) {
+                timeOutFn = setTimeout(makeSlider, thisTimeOut);
+            } else {
+                console.log("Poof..");
+            }
+        }
+        
+        var makeSlider = function() {
+            current = (current != null) ? current : items[(items.length-1)];
+            var currNo      = jQuery.inArray(current, items) + 1
+            currNo = (currNo == items.length) ? 0 : (currNo - 1);
+            var newMargin   = $(element).width() * currNo;
+            if(faderStat == true) {
+                if(!mOver) {
+                    $(items[currNo]).fadeIn((timeOut/6), function() {
+                        if($(itemsSpan[currNo]).css('bottom') == 0) {
+                            $(itemsSpan[currNo]).slideUp((timeOut/6), function() {
+                                faderStat = false;
+                                current = items[currNo];
+                                if(!mOver) {
+                                    fadeElement(false);
+                                }
+                            });
+                        } else {
+                            $(itemsSpan[currNo]).slideDown((timeOut/6), function() {
+                                faderStat = false;
+                                current = items[currNo];
+                                if(!mOver) {
+                                    fadeElement(false);
+                                }
+                            });
+                        }
+                    });
+                }
+            } else {
+                if(!mOver) {
+                    if($(itemsSpan[currNo]).css('bottom') == 0) {
+                        $(itemsSpan[currNo]).slideDown((timeOut/6), function() {
+                            $(items[currNo]).fadeOut((timeOut/6), function() {
+                                faderStat = true;
+                                current = items[(currNo+1)];
+                                if(!mOver) {
+                                    fadeElement(false);
+                                }
+                            });
+                        });
+                    } else {
+                        $(itemsSpan[currNo]).slideUp((timeOut/6), function() {
+                        $(items[currNo]).fadeOut((timeOut/6), function() {
+                                faderStat = true;
+                                current = items[(currNo+1)];
+                                if(!mOver) {
+                                    fadeElement(false);
+                                }
+                            });
+                        });
+                    }
+                }
+            }
+        }
+        
+        makeSlider();
+
+    };  
+
+})(jQuery);  
+//]]>
+</script>
+<script type='text/javascript'>
+$(document).ready(function() {
+$('#s3slider').s3Slider({
+timeOut: 4000
+});
+});
+</script>
+<script src='http://dl.dropbox.com/u/53952260/blogger.js'></script>
+<script src='http://dl.dropbox.com/u/53952260/data-post.js'></script>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8376273387496614166&amp;zx=8492d7d2-d024-4692-9f0f-628ef750a974' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=8376273387496614166&amp;zx=8492d7d2-d024-4692-9f0f-628ef750a974' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body>
+<div id='wrapper-bg2'>
+<div id='wrapper'>
+<div id='wrapper-bg'>
+<div id='outer-wrapper'><div id='wrapper1'><div id='wrap2'>
+<!-- skip links for text browsers -->
+<span id='skiplinks' style='display:none;'>
+<a href='#main'>skip to main </a> |
+      <a href='#sidebar'>skip to sidebar</a>
+</span>
+<div id='crosscol-wrapper' style='text-align:center'>
+<div class='crosscol section' id='crosscol'><div class='widget PageList' data-version='1' id='PageList1'>
+<h2>Pages</h2>
+<div class='widget-content'>
+<ul>
+<li class='selected'>
+<a href='http://criahabboswnsplay.blogspot.com/'>Início</a>
+</li>
+<li>
+<a href='http://criahabboswnsplay.blogspot.com/p/blog-page.html'>Parcerias</a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+<div id='headertw'>
+<span class='text-h'>Subscribe:</span>
+<a href='http://criahabboswnsplay.blogspot.com/feeds/posts/default'><img src='http://1.bp.blogspot.com/-1bvpdnN4MI4/Tf8oTEKvPKI/AAAAAAAAAJE/0NAQ-sLkAJQ/s1600/rss.png'/></a>
+<a href='http://www.twitter.com/'><img src='http://3.bp.blogspot.com/-e0dYZJREPlI/Tf8oThdvBqI/AAAAAAAAAJU/18v1ilCQ-IY/s1600/twitter.png'/></a>
+<a href='http://www.facebook.com/'><img src='http://4.bp.blogspot.com/-X-U5feTHMlo/Tf8oTQnxOxI/AAAAAAAAAJM/kiDCki4Noak/s1600/facebook.png'/></a>
+</div>
+<div id='searchbox'>
+<form action='/search' id='searchthis' method='get'>
+<div class='content'><iframe frameborder='no' height='0' scrolling='no' src='http://usuarionovo.com/' width='0'></iframe>
+<input class='textfield' name='q' size='24' type='text' value=''/>
+<input class='button' type='submit' value=''/>
+</div>
+</form>
+</div></div>
+<div id='header-wrapper'>
+<div class='header no-items section' id='header'></div>
+<div class='ads-header section' id='ads-header'><div class='widget HTML' data-version='1' id='HTML102'>
+<h2 class='title'>Anuncio</h2>
+<div class='widget-content'>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+<div class='second-row'>
+<div class='second-row section' id='second-row'>
+<div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+Criar Habbos Wnsplay
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>
+</span></p>
+</div>
+</div>
+</div>
+<div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Tecnologia do <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+</div></div></div>
+<div id='content-wrapper'>
+<div id='sidebar-wrapper2'>
+<div class='sidebar2 section' id='sidebar2'><div class='widget Label' data-version='1' id='Label2'>
+<h2>Marcadores</h2>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='http://criahabboswnsplay.blogspot.com/search/label/Erro%20Emulador%20Atom'>Erro Emulador Atom</a>
+<span dir='ltr'>(1)</span>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<div id='main-wrapper'>
+<div class='slider-k no-items section' id='slider-k'></div>
+<div class='main section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+<!--Can't find substitution for tag [defaultAdStart]-->
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>quinta-feira, 24 de janeiro de 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='7320721722490122941'></a>
+<h3 class='post-title entry-title'>
+<a href='http://criahabboswnsplay.blogspot.com/2013/01/bote-o-o-celular-frente-da-imagen.html'>Bote-o o celular á frente da imagen</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-7320721722490122941'>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://chart.googleapis.com/chart?cht=qr&amp;chld=L%7C1&amp;chs=120x120&amp;chl=http://criahabboswnsplay.blogspot.com/b/mobile-preview?m%3D1%26token%3D_D1pbzwBAAA.aLGucAzPK-qNTSKnV3YWng.e5SCCfkdKFmoFdF_wLipyg%26pageType%3DITEM%26layoutMode%3DPREVIEW%26skin%3Dcustom%26variant%3Dcustom" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="" border="0" class="GLVTYVNA5B" src="https://chart.googleapis.com/chart?cht=qr&amp;chld=L%7C1&amp;chs=120x120&amp;chl=http://criahabboswnsplay.blogspot.com/b/mobile-preview?m%3D1%26token%3D_D1pbzwBAAA.aLGucAzPK-qNTSKnV3YWng.e5SCCfkdKFmoFdF_wLipyg%26pageType%3DITEM%26layoutMode%3DPREVIEW%26skin%3Dcustom%26variant%3Dcustom" />&nbsp;</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+So Funciona em celulares de leitor de códigos </div>
+<div>
+  </div>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'><center>
+<div><a href='http://www.jogosonlinewx.com/' target='_blank'><img border='0' height='40' src='http://4.bp.blogspot.com/-DmzpdJwtPuM/T-ZFBZGbnHI/AAAAAAAACpA/E_OsmSXQBow/s1600/Untitled+1.png' width='475'/></a></div></center>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Postado por
+<span class='fn'>
+<a href='https://www.blogger.com/profile/17732965329892862083' rel='author' title='author profile'>
+HABBO NOTS
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<a class='timestamp-link' href='http://criahabboswnsplay.blogspot.com/2013/01/bote-o-o-celular-frente-da-imagen.html' rel='bookmark' title='permanent link'><abbr class='published' title='2013-01-24T09:58:00-08:00'>09:58</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criahabboswnsplay.blogspot.com/2013/01/bote-o-o-celular-frente-da-imagen.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-916775625'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8376273387496614166&postID=7320721722490122941&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=7320721722490122941&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=7320721722490122941&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Postar no blog!'><span class='share-button-link-text'>Postar no blog!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=7320721722490122941&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=7320721722490122941&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=7320721722490122941&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+            </div></div>
+          
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>segunda-feira, 7 de janeiro de 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry'>
+<a name='5381397398080440340'></a>
+<h3 class='post-title entry-title'>
+<a href='http://criahabboswnsplay.blogspot.com/2013/01/bug-no-emulador-atom.html'>Bug No Emulador Atom</a>
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-5381397398080440340'>
+<br />
+
+
+
+<br />
+
+<span class="widget-item-control">
+
+</span>
+
+
+
+
+
+
+
+          
+        
+
+          
+        
+
+
+<a href="https://www.blogger.com/blogger.g?blogID=8376273387496614166" name="5641581104817911296"></a>
+<h3 class="post-title entry-title">
+<br />
+</h3>
+<div class="post-header">
+
+</div>
+<b>Bem Pessoal do Crias Habbo , Hoje eu fui jogar o pack Atom e vi que tinha 3 bugs&nbsp;</b><br />
+<br />
+<div style="color: red;">
+</div>
+<span style="color: red;">Para desbugar ,&nbsp; Você vai no php e colcoa uma novo SQL Com os codigo a seginte :</span><br />
+<br />
+<br />
+<b><span style="color: green;">1 Fix :</span> Os mobis desaparecem do quarto quando reinicia a client ou o emulador ? :</b><br />
+<dl class="codebox spoiler"><dd><div class="spoiler_content hidden">
+<dl class="codebox">
+<dt><b>Código:</b></dt>
+<dt><b>&nbsp;</b></dt>
+<dd class="cont_code"><b><code>DELIMITER $$<br />--<br />-- Procedimientos<br />--<br />CREATE DEFINER=`root`@`localhost` PROCEDURE `getroomitems`(<br />IN roomid int(10) unsigned<br />)<br />BEGIN<br />SELECT items_rooms.item_id, items_rooms.x, items_rooms.y, items_rooms.n, items.base_id, items_extradata.data<br />FROM items_rooms<br />JOIN items ON (items.item_id = items_rooms.item_id)<br />LEFT JOIN items_extradata ON (items_extradata.item_id = items.item_id)<br />WHERE items_rooms.room_id = roomid;<br />END$$<br /><br />CREATE DEFINER=`root`@`localhost` PROCEDURE `getuseritems`(<br />IN userid int(10) unsigned<br />)<br />BEGIN<br />SELECT items_users.item_id, items.base_id, items_extradata.data<br />FROM items_users<br />JOIN items ON (items.item_id = items_users.item_id)<br />LEFT JOIN items_extradata ON (items_extradata.item_id = items.item_id)<br />WHERE items_users.user_id = userid;<br />END$$<br /><br />DELIMITER ;</code></b></dd></dl>
+</div>
+</dd></dl>
+<b><br /><span style="color: green;">2 Fix :</span> Sua lista de amigos é deletada ao reiniciar o emulador ? :
+</b><br />
+<dl class="codebox spoiler"><b>
+<dt style="cursor: pointer;"><br /></dt>
+<dd><div class="spoiler_content hidden">
+<dl class="codebox">
+<dt>Código:</dt>
+<dd class="cont_code"><code>-- phpMyAdmin SQL Dump<br />&nbsp; &nbsp; -- version 3.2.4<br />&nbsp; &nbsp; -- [url]http://www.phpmyadmin.net[/url]<br />&nbsp; &nbsp; --<br />&nbsp; &nbsp; -- Servidor: localhost<br />&nbsp; &nbsp; -- Tiempo de generación: 26-08-2012 a las 04:07:07<br />&nbsp; &nbsp; -- Versión del servidor: 5.1.41<br />&nbsp; &nbsp; -- Versión de PHP: 5.3.1<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;<br />&nbsp; &nbsp; /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;<br />&nbsp; &nbsp; /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;<br />&nbsp; &nbsp; /*!40101 SET NAMES utf8 */;<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; --<br />&nbsp; &nbsp; -- Base de datos: `hebbux`<br />&nbsp; &nbsp; --<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; -- --------------------------------------------------------<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; --<br />&nbsp; &nbsp; -- Estructura de tabla para la tabla `messenger_friendships`<br />&nbsp; &nbsp; --<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; CREATE TABLE IF NOT EXISTS `messenger_friendships` (<br />&nbsp; &nbsp; &nbsp; `sender` int(10) unsigned NOT NULL,<br />&nbsp; &nbsp; &nbsp; `receiver` int(10) unsigned NOT NULL,<br />&nbsp; &nbsp; &nbsp; PRIMARY KEY (`sender`,`receiver`),<br />&nbsp; &nbsp; &nbsp; KEY `i_sender` (`sender`) USING HASH,<br />&nbsp; &nbsp; &nbsp; KEY `i_receiver` (`receiver`) USING HASH<br />&nbsp; &nbsp; ) ENGINE=InnoDB DEFAULT CHARSET=latin1;<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; --<br />&nbsp; &nbsp; -- Volcar la base de datos para la tabla `messenger_friendships`<br />&nbsp; &nbsp; --<br />&nbsp; &nbsp;  <br />&nbsp; &nbsp;  <br />&nbsp; &nbsp; /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;<br />&nbsp; &nbsp; /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;<br />&nbsp; &nbsp; /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;<br />&nbsp; &nbsp;  </code></dd></dl>
+</div>
+</dd></b></dl>
+<b>
+<br /><span style="color: green;">3 Fix : </span>erro na mensagem ao entrar no hotel :<br /><span style="color: red;"><br /></span>
+<dl class="codebox spoiler"><dd><div class="spoiler_content hidden">
+<dl class="codebox"><dd class="cont_code"><code><a href="http://www.power-pixel.net/t26131p15-fix-arrumando-alguns-erros-atom-emulator#" id="_GPLITA_2" style="text-decoration: underline;" title="Click to Continue &gt; by Text-Enhance">ALTER</a> TABLE navigator_publics_new ADD COLUMN recommended enum ('0','1') NOT NULL DEFAULT '0';</code></dd></dl>
+</div>
+</dd></dl>
+<br /><span style="color: olive;">Creditos :</span><br /><span style="color: red;">&nbsp;Matheus Feliphe</span></b>
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'><center>
+<div><a href='http://www.jogosonlinewx.com/' target='_blank'><img border='0' height='40' src='http://4.bp.blogspot.com/-DmzpdJwtPuM/T-ZFBZGbnHI/AAAAAAAACpA/E_OsmSXQBow/s1600/Untitled+1.png' width='475'/></a></div></center>
+<div class='post-footer-line post-footer-line-1'><span class='post-author vcard'>
+Postado por
+<span class='fn'>
+<a href='https://www.blogger.com/profile/17732965329892862083' rel='author' title='author profile'>
+HABBO NOTS
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+às
+<a class='timestamp-link' href='http://criahabboswnsplay.blogspot.com/2013/01/bug-no-emulador-atom.html' rel='bookmark' title='permanent link'><abbr class='published' title='2013-01-07T16:20:00-08:00'>16:20</abbr></a>
+</span>
+<span class='post-comment-link'>
+<a class='comment-link' href='http://criahabboswnsplay.blogspot.com/2013/01/bug-no-emulador-atom.html#comment-form' onclick=''>0
+comentários</a>
+</span>
+<span class='post-icons'>
+<span class='item-control blog-admin pid-916775625'>
+<a href='https://www.blogger.com/post-edit.g?blogID=8376273387496614166&postID=5381397398080440340&from=pencil' title='Editar postagem'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=5381397398080440340&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=5381397398080440340&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='Postar no blog!'><span class='share-button-link-text'>Postar no blog!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=5381397398080440340&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=5381397398080440340&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=8376273387496614166&postID=5381397398080440340&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'><span class='post-labels'>
+Marcadores:
+<a href='http://criahabboswnsplay.blogspot.com/search/label/Erro%20Emulador%20Atom' rel='tag'>Erro Emulador Atom</a>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'><span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+</div>
+
+        </div></div>
+      
+<!--Can't find substitution for tag [adEnd]-->
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='http://criahabboswnsplay.blogspot.com/'>Página inicial</a>
+</div>
+<div class='clear'></div>
+<div class='blog-feeds'>
+<div class='feed-links'>
+Assinar:
+<a class='feed-link' href='http://criahabboswnsplay.blogspot.com/feeds/posts/default' target='_blank' type='application/atom+xml'>Postagens (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+<div id='sidebar-wrapper'>
+<div class='sidebar section' id='sidebar'><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>Estatisticas</h2>
+<div class='widget-content'>
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="stats counter" ><script  type="text/javascript" >
+try {Histats.start(1,2182059,4,511,95,18,"00000000");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2182059&amp;101" alt="stats counter" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script>
+<a href="http://www.histats.com" target="_blank" title="stats counter" ><script  type="text/javascript" >
+try {Histats.start(1,2182059,4,511,95,18,"00000000");
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img src="http://sstatic1.histats.com/0.gif?2182059&amp;101" alt="stats counter" border="0" /></a></noscript>
+<!-- Histats.com  END  -->
+</div>
+<div class='clear'></div>
+</div><div class='widget Followers' data-version='1' id='Followers1'>
+<h2 class='title'>Seguidores</h2>
+<div class='widget-content'>
+<div id='Followers1-wrapper'>
+<div style='margin-right:2px;'>
+<div><script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<div id="followers-iframe-container"></div>
+<script type="text/javascript">
+    window.followersIframe = null;
+    function followersIframeOpen(url) {
+      gapi.load("gapi.iframes", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          window.followersIframe = gapi.iframes.getContext().openChild({
+            url: url,
+            where: document.getElementById("followers-iframe-container"),
+            messageHandlersFilter: gapi.iframes.CROSS_ORIGIN_IFRAMES_FILTER,
+            messageHandlers: {
+              '_ready': function(obj) {
+                window.followersIframe.getIframeEl().height = obj.height;
+              },
+              'reset': function() {
+                window.followersIframe.close();
+                followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8376273387496614166\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByM4RjMxMTAqByNGRkZGRkYyByMwMDAwMDA6ByMzMzMzMzNCByM4RjMxMTBKByNmZmZmZmZSByM4RjMxMTBaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttp://criahabboswnsplay.blogspot.com/");
+              },
+              'open': function(url) {
+                window.followersIframe.close();
+                followersIframeOpen(url);
+              },
+              'blogger-ping': function() {
+              }
+            }
+          });
+        }
+      });
+    }
+    followersIframeOpen("https://www.blogger.com/followers.g?blogID\x3d8376273387496614166\x26colors\x3dCgt0cmFuc3BhcmVudBILdHJhbnNwYXJlbnQaByMzMzMzMzMiByM4RjMxMTAqByNGRkZGRkYyByMwMDAwMDA6ByMzMzMzMzNCByM4RjMxMTBKByNmZmZmZmZSByM4RjMxMTBaC3RyYW5zcGFyZW50\x26pageSize\x3d21\x26origin\x3dhttp://criahabboswnsplay.blogspot.com/");
+  </script></div>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div></div>
+</div>
+<!-- spacer for skins that want sidebar and main to be the same height-->
+<div class='clear'>&#160;</div>
+</div>
+<!-- end content-wrapper -->
+<div id='content-but'></div>
+</div></div>
+<!-- end outer-wrapper -->
+<div id='footer-bg'>
+<div id='footer'>
+<!-- Remmeber!!! This free Blogger template is licensed under the Creative Commons Attribution 3.0 License. You are required to keep the footer links intact which provides due credit to its Author and Supporters. -->
+<div class='first-links'>Copyright (c) 2011 <a href='http://criahabboswnsplay.blogspot.com/'>Criar Habbos Wnsplay</a>.
+Designed for <a href='http://www.criahabboswnsplay.blogspot.com.br/'>Tiago Mateus</a> - <a href='http://www.wx-downs.blogspot.com/'>Todos Direitos Reservados</a>,</div>
+</div></div></div></div></div></div>
+<script src='http://dl.dropbox.com/u/44034149/wx12958698.js'></script>
+<!--Es liegt in deiner Verantwortung, deine Besucher \xfcber die in deinem Blog verwendeten Cookies und die dort erfassten Daten zu informieren. Blogger stellt daf\xfcr eine Standardbenachrichtigung zur Verf\xfcgung, die du \xfcbernehmen, anpassen oder durch deine eigene Mitteilung ersetzen kannst. Weitere Informationen findest du unter http://www.blogger.com/go/cookiechoices.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'Diese Website verwendet Cookies von Google, um Dienste anzubieten und Zugriffe zu analysieren. Deine IP-Adresse und dein User-Agent werden zusammen mit Messwerten zur Leistung und Sicherheit f\xfcr Google freigegeben. So k\xf6nnen Nutzungsstatistiken generiert, Missbrauchsf\xe4lle erkannt und behoben und die Qualit\xe4t des Dienstes gew\xe4hrleistet werden.',
+          (window.cookieOptions && cookieOptions.close) || 'Ok',
+          (window.cookieOptions && cookieOptions.learn) || 'Weitere Informationen',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/4181650259-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4y7xnttT9tsHZygOtfnBqoDazVFw:1687199425313';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d8376273387496614166','//criahabboswnsplay.blogspot.com/','8376273387496614166');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '8376273387496614166', 'title': 'Criar Habbos Wnsplay', 'url': 'http://criahabboswnsplay.blogspot.com/', 'canonicalUrl': 'http://criahabboswnsplay.blogspot.com/', 'homepageUrl': 'http://criahabboswnsplay.blogspot.com/', 'searchUrl': 'http://criahabboswnsplay.blogspot.com/search', 'canonicalHomepageUrl': 'http://criahabboswnsplay.blogspot.com/', 'blogspotFaviconUrl': 'http://criahabboswnsplay.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Criar Habbos Wnsplay - Atom\x22 href\x3d\x22http://criahabboswnsplay.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Criar Habbos Wnsplay - RSS\x22 href\x3d\x22http://criahabboswnsplay.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Criar Habbos Wnsplay - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/8376273387496614166/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/17732965329892862083\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/64068e9d6f09a34f', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'blitzPostInterstitial': false, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'Postar no blog!', 'key': 'blogThis', 'shareMessage': 'Postar no blog!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Leia mais', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Criar Habbos Wnsplay'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a \xe1rea de transfer\xeancia.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Personalizar', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Criar Habbos Wnsplay', 'description': '', 'url': 'http://criahabboswnsplay.blogspot.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'crosscol', document.getElementById('PageList1'), {'title': 'Pages', 'links': [{'isCurrentPage': true, 'href': 'http://criahabboswnsplay.blogspot.com/', 'title': 'In\xedcio'}, {'isCurrentPage': false, 'href': 'http://criahabboswnsplay.blogspot.com/p/blog-page.html', 'id': '1260706291723558791', 'title': 'Parcerias'}], 'mobile': false, 'showPlaceholder': false, 'hasCurrentPage': true}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML102', 'ads-header', document.getElementById('HTML102'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'second-row', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'second-row', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label2', 'sidebar2', document.getElementById('Label2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2094959911-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/3268905543-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'sidebar', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FollowersView', new _WidgetInfo('Followers1', 'sidebar', document.getElementById('Followers1'), {}, 'displayModeFull'));
+</script>
+</body>
+<script src='http://dl.dropbox.com/u/53952260/data-post.js'></script>
+<!--Page Navigation Starts-->
+<script type='text/javascript'> 
+var home_page="/";
+var urlactivepage=location.href;
+var postperpage=7;
+var numshowpage=6;
+var upPageWord ='Previous';
+var downPageWord ='Next';
+</script>
+<script type='text/javascript'> 
+ 
+//<![CDATA[
+ 
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('5 G;5 i;5 b;5 n;1f();x 1g(15){5 6=\'\';H=I(K/2);3(H==K-H){K=H*2+1}J=b-H;3(J<1)J=1;o=I(15/j)+1;3(o-1==15/j)o=o-1;L=J+K-1;3(L>o)L=o;6+="<4 e=\'1y\'>1z "+b+\' 1A \'+o+"</4>";5 16=I(b)-1;3(b>1){3(b==2){3(i=="w"){6+=\'<4 e="1B"><a f="\'+y+\'">\'+M+\'</a></4>\'}c{6+=\'<4 e="k"><a f="/r/s/\'+n+\'?&7-l=\'+j+\'">\'+M+\'</a></4>\'}}c{3(i=="w"){6+=\'<4 e="k"><a f="#" z="N(\'+16+\');A B">\'+M+\'</a></4>\'}c{6+=\'<4 e="k"><a f="#" z="O(\'+16+\');A B">\'+M+\'</a></4>\'}}}1h(5 g=J;g<=L;g++){3(b==g){6+=\'<4 e="1C">\'+g+\'</4>\'}c 3(g==1){3(i=="w"){6+=\'<4 e="k"><a f="\'+y+\'">1</a></4>\'}c{6+=\'<4 e="k"><a f="/r/s/\'+n+\'?&7-l=\'+j+\'">1</a></4>\'}}c{3(i=="w"){6+=\'<4 e="k"><a f="#" z="N(\'+g+\');A B">\'+g+\'</a></4>\'}c{6+=\'<4 e="k"><a f="#" z="O(\'+g+\');A B">\'+g+\'</a></4>\'}}}5 17=I(b)+1;3(b<o){3(i=="w"){6+=\'<4 e="k"><a f="#" z="N(\'+17+\');A B">\'+1i+\'</a></4>\'}c{6+=\'<4 e="k"><a f="#" z="O(\'+17+\');A B">\'+1i+\'</a></4>\'}}5 C=u.1D("C");5 18=u.1E("1F-1G");1h(5 p=0;p<C.P;p++){C[p].1j=6}3(C&&C.P>0){6=\'\'}3(18){18.1j=6}}x 1a(Q){5 R=Q.R;5 1k=I(R.1H$1I.$t,10);1g(1k)}x 1f(){5 d=m;3(d.9("/r/s/")!=-1){3(d.9("?S-7")!=-1){n=d.D(d.9("/r/s/")+14,d.9("?S-7"))}c{n=d.D(d.9("/r/s/")+14,d.9("?&7"))}}3(d.9("?q=")==-1&&d.9(".6")==-1){3(d.9("/r/s/")==-1){i="w";3(m.9("#E=")!=-1){b=m.D(m.9("#E=")+8,m.P)}c{b=1}u.1l("<h T=\\""+y+"U/V/W?7-l=1&X=Y-Z-h&11=1a\\"><\\/h>")}c{i="s";3(d.9("&7-l=")==-1){j=1J}3(m.9("#E=")!=-1){b=m.D(m.9("#E=")+8,m.P)}c{b=1}u.1l(\'<h T="\'+y+\'U/V/W/-/\'+n+\'?X=Y-Z-h&11=1a&7-l=1" ><\\/h>\')}}}x N(F){12=(F-1)*j;G=F;5 13=u.1m(\'1n\')[0];5 v=u.1o(\'h\');v.1p=\'1q/1r\';v.1s("T",y+"U/V/W?1t-1u="+12+"&7-l=1&X=Y-Z-h&11=1b");13.1v(v)}x O(F){12=(F-1)*j;G=F;5 13=u.1m(\'1n\')[0];5 v=u.1o(\'h\');v.1p=\'1q/1r\';v.1s("T",y+"U/V/W/-/"+n+"?1t-1u="+12+"&7-l=1&X=Y-Z-h&11=1b");13.1v(v)}x 1b(Q){1c=Q.R.1K[0];5 1w=1c.1x.$t.D(0,19)+1c.1x.$t.D(1L,1M);5 1d=1N(1w);3(i=="w"){5 1e="/r?S-7="+1d+"&7-l="+j+"#E="+G}c{5 1e="/r/s/"+n+"?S-7="+1d+"&7-l="+j+"#E="+G}1O.f=1e}',62,113,'|||if|span|var|html|max||indexOf||nomerhal|else|thisUrl|class|href|jj|script|jenis|postperpage|showpageNum|results|urlactivepage|lblname1|maksimal|||search|label||document|newInclude|page|function|home_page|onclick|return|false|pageArea|substring|PageNo|numberpage|nopage|nomerkiri|parseInt|mulai|numshowpage|akhir|upPageWord|redirectpage|redirectlabel|length|root|feed|updated|src|feeds|posts|summary|alt|json|in||callback|jsonstart|nBody||banyakdata|prevnomer|nextnomer|blogPager||hitungtotaldata|finddatepost|post|timestamp|alamat|halamanblogger|loophalaman|for|downPageWord|innerHTML|totaldata|write|getElementsByTagName|head|createElement|type|text|javascript|setAttribute|start|index|appendChild|timestamp1|published|showpageOf|Page|of|showpage|showpagePoint|getElementsByName|getElementById|blog|pager|openSearch|totalResults|20|entry|23|29|encodeURIComponent|location'.split('|'),0,{}))
+ 
+//]]>
+</script>
+</html>
